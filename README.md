@@ -32,13 +32,13 @@ Lab-1 submission for IT314
 - Family of people suffering from such diseases or disorders.
 - Any people who want to keep this device with them as a safety measure or for any other purpose.
 
-### Functional Requirements:
+### Features:
 - The app should be precise and accurate in recognizing the sound events and be able to differentiate between the sound events.
 - The app should be able to recognize the sound events in real-time and should be able to provide alerts to the user through different means like visual notifications, vibration, etc.
 - The app should be able to provide the user with insights about the sound events and should be able to provide the user with information about the sound events.
 - UI of the app should be user-friendly and guide users about the potential direction and proximity of the sound events.
 
-### Non-Functional Requirements:
+### Non-Functional Aspects:
 - The app should be able to process the sound events in real-time using the AI algorithms by running them on the cloud with very low latency.
 - The AI algorithm should be trained on a large dataset of sound events and fine-tuned for low-parameter models to reduce the prediction time and latency.
 - The app should also provide an option for the user to provide data about the sound events to the app so that the app can be trained on the user's data and can provide better insights to the user.
